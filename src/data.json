@@ -1,0 +1,1968 @@
+{
+  "data": {
+    "communities_thumb_prefix": "https://res.cloudinary.com/renderinghouse/image/upload/app/demo/thumbnails",
+    "communities_logo_prefix": "https://res.cloudinary.com/renderinghouse/image/upload/app/demo/assets/custom",
+    "elevation_thumb_prefix": "https://res.cloudinary.com/renderinghouse/image/upload/app/demo/images",
+    "communities": [
+      {
+        "name": "Briar Chapel",
+        "thumb": "thumb_briar_4f7e18b582769384.jpg",
+        "logo": "logo_briar_13addd4e1cc06067.png",
+        "latitude": 35.8301,
+        "longitude": -79.106,
+        "description": "<p style=\"box-sizing: border-box; margin: 0.85em 0px; padding: 0px; border: 0px #e1e1e1; font-variant-numeric: inherit; font-stretch: inherit; font-size: 15px; line-height: inherit; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; vertical-align: baseline; color: #666666;\">Make yourself at home at <strong>Porto Bello Estates</strong>, a community of single family homes in St. Mary&rsquo;s County, MD. Located just minutes away from Rt. 2/4, homeowners at Porto Bello Estates will enjoy the convenience and luxury that come with this premiere location.</p>\n<p class=\"p1\" style=\"box-sizing: border-box; margin: 0.85em 0px; padding: 0px; border: 0px #e1e1e1; font-variant-numeric: inherit; font-stretch: inherit; font-size: 15px; line-height: inherit; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; vertical-align: baseline; color: #666666;\">These beautiful, wooded 1+ acre lots provide enough space for a pool in the backyard or a 3- car garage. You can entertain your family and friends with pool parties and cookouts or just relax and enjoy the tranquil surroundings.</p>\n<p class=\"p1\" style=\"box-sizing: border-box; margin: 0.85em 0px; padding: 0px; border: 0px #e1e1e1; font-variant-numeric: inherit; font-stretch: inherit; font-size: 15px; line-height: inherit; font-family: 'Open Sans', HelveticaNeue, 'Helvetica Neue', Helvetica, Arial, sans-serif; vertical-align: baseline; color: #666666;\">Visit the community:&nbsp;From Patuxent Beach Road, turn Left onto Three Notch Rd. Right onto MD-237 S/Chancellors Run Rd. Right onto Great Mills Rd. Left onto Point Lookout Rd. Left on Flat Iron Rd. Continue on Drayden Rd. Continue on Frogs Marsh Rd. Go past the&nbsp;existing community&nbsp;and follow the signs to the new section.</p>",
+        "cityLocation": {
+          "name": "Chapel Hill",
+          "zip": 27514,
+          "stateCode": "NC",
+          "lat": 35.9203,
+          "lon": -79.0372
+        },
+        "plans": [
+          {
+            "name": "Blue Ridge",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 392500,
+                "thumb": "blueridgea-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 380800,
+                "thumb": "blueridgeb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 384500,
+                "thumb": "blueridgec-lg_593560db2d7ad.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Camellia",
+            "elevations": [
+              {
+                "caption": "CA",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 2979,
+                "cost": 280100,
+                "thumb": "camelliaca-lg_570ba89d386f0.jpg"
+              },
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 2979,
+                "cost": 263800,
+                "thumb": "camelliaa-lg_570ba832e930a.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 2979,
+                "cost": 279000,
+                "thumb": "camelliac-lg_570ba87ed8744.jpg"
+              },
+              {
+                "caption": "E",
+                "bed": 5,
+                "bath": 2.5,
+                "size": 2979,
+                "cost": 290000,
+                "thumb": "camelliae-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 2979,
+                "cost": 267900,
+                "thumb": "camelliab-lg_570ba866028c7.jpg"
+              },
+              {
+                "caption": "BA",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 2979,
+                "cost": 269800,
+                "thumb": "camelliaba-lg.jpg"
+              },
+              {
+                "caption": "D",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 2979,
+                "cost": 287900,
+                "thumb": "camelliad-lg_570ba8bd90533.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Currituck",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3276,
+                "cost": 337500,
+                "thumb": "curritucka-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3276,
+                "cost": 347900,
+                "thumb": "currituckb-lg_59356335473a4.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 3,
+                "bath": 3.5,
+                "size": 3276,
+                "cost": 355000,
+                "thumb": "currituckc-lg_5935641d686c9.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Monroe",
+            "elevations": [
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 351250,
+                "thumb": "monroec-lg_599c96b00d4e8.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 347600,
+                "thumb": "monroeb-lg_599c962b100ab.jpg"
+              },
+              {
+                "caption": "D",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 357600,
+                "thumb": "monroed-lg_599c96a3e4ad8.jpg"
+              },
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 342500,
+                "thumb": "monroea-lg_599c960a806de.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Oakwood",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3854,
+                "cost": 391200,
+                "thumb": "oakwooda-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3854,
+                "cost": 397800,
+                "thumb": "oakwoodb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3854,
+                "cost": 405000,
+                "thumb": "oakwoodc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Pamlico",
+            "elevations": [
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 368500,
+                "thumb": "pamlicob-lg.jpg"
+              },
+              {
+                "caption": "AA",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 360000,
+                "thumb": "pamlicoaa-lg.jpg"
+              },
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 354800,
+                "thumb": "pamlicoa-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 374500,
+                "thumb": "pamlicoc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Somerset",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 4,
+                "size": 3590,
+                "cost": 362300,
+                "thumb": "somerseta-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 4,
+                "size": 3590,
+                "cost": 373000,
+                "thumb": "somersetb-lg.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Carries Reach",
+        "thumb": "thumb_carriesreach_5935b8857d961.jpg",
+        "logo": "logocarriesreach.jpg",
+        "latitude": 35.9736,
+        "longitude": -78.686,
+        "description": "<p><span style=\"font-family: 'Open Sans', sans-serif, Arial, Helvetica; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 16px;\">Amenities and parks abound with:</span><br /><span style=\"font-family: 'Open Sans', sans-serif, Arial, Helvetica; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 16px;\">&nbsp;&nbsp;</span><br /><span style=\"font-family: 'Open Sans', sans-serif, Arial, Helvetica; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 16px;\">&nbsp; &nbsp; &nbsp;â— &nbsp;90 acres of preserved green space</span><br /><span style=\"font-family: 'Open Sans', sans-serif, Arial, Helvetica; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 16px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;â—&nbsp;&nbsp;nature posts</span><br /><span style=\"font-family: 'Open Sans', sans-serif, Arial, Helvetica; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 16px;\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;â— &nbsp;4 miles of walking trails&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><br /><span style=\"font-family: 'Open Sans', sans-serif, Arial, Helvetica; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 16px;\">&nbsp; &nbsp; &nbsp;â—&nbsp;&nbsp;parks and dog parks</span><br /><br /><span style=\"font-family: 'Open Sans', sans-serif, Arial, Helvetica; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 16px;\">The&nbsp;</span><span style=\"font-style: normal; font-variant: normal; font-weight: bold; font-size: 16px; line-height: 16px; font-family: 'Open Sans', sans-serif, Arial, Helvetica;\">Carries Reach</span><span style=\"font-family: 'Open Sans', sans-serif, Arial, Helvetica; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 16px;\">&nbsp;is a great spot to unwind with neighbors and friends, play basketball or tennis, or do a quick workout. With two swimming pools, a kiddie pool, a slide and picnic pavilions you will have lots to do!&nbsp;</span><br /><br /><span style=\"font-family: 'Open Sans', sans-serif, Arial, Helvetica; font-size: 16px; font-style: normal; font-variant: normal; font-weight: normal; line-height: 16px;\">Come visit our model home today!</span></p>",
+        "cityLocation": {
+          "name": "Raleigh",
+          "zip": 27601,
+          "stateCode": "NC",
+          "lat": 35.7727,
+          "lon": -78.6324
+        },
+        "plans": [
+          {
+            "name": "Blue Ridge",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 370500,
+                "thumb": "blueridgea-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 378600,
+                "thumb": "blueridgeb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 382000,
+                "thumb": "blueridgec-lg_593560db2d7ad.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Caldwell",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 4,
+                "size": 3015,
+                "cost": 362100,
+                "thumb": "caldwella-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 4,
+                "size": 3015,
+                "cost": 368900,
+                "thumb": "caldwellb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 4,
+                "size": 3015,
+                "cost": 374500,
+                "thumb": "caldwellc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Camellia",
+            "elevations": [
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 2979,
+                "cost": 265700,
+                "thumb": "camelliab-lg_570ba866028c7.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 2979,
+                "cost": 277000,
+                "thumb": "camelliac-lg_570ba87ed8744.jpg"
+              },
+              {
+                "caption": "CA",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 2979,
+                "cost": 278500,
+                "thumb": "camelliaca-lg_570ba89d386f0.jpg"
+              },
+              {
+                "caption": "D",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 2979,
+                "cost": 285700,
+                "thumb": "camelliad-lg_570ba8bd90533.jpg"
+              },
+              {
+                "caption": "E",
+                "bed": 5,
+                "bath": 2.5,
+                "size": 2979,
+                "cost": 288900,
+                "thumb": "camelliae-lg.jpg"
+              },
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 2979,
+                "cost": 261570,
+                "thumb": "camelliaa-lg_570ba832e930a.jpg"
+              },
+              {
+                "caption": "BA",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 2979,
+                "cost": 267500,
+                "thumb": "camelliaba-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Carolina",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 2893,
+                "cost": 345300,
+                "thumb": "carolinaa-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 2893,
+                "cost": 354000,
+                "thumb": "carolinab-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 2893,
+                "cost": 368100,
+                "thumb": "carolinac-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Currituck",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3276,
+                "cost": 335600,
+                "thumb": "curritucka-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3276,
+                "cost": 345700,
+                "thumb": "currituckb-lg_59356335473a4.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 3,
+                "bath": 3.5,
+                "size": 3276,
+                "cost": 353800,
+                "thumb": "currituckc-lg_5935641d686c9.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Guilford",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 2892,
+                "cost": 369900,
+                "thumb": "guilforda-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 2982,
+                "cost": 378800,
+                "thumb": "guilfordb-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Monroe",
+            "elevations": [
+              {
+                "caption": "D",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 357600,
+                "thumb": "monroed-lg_599c96a3e4ad8.jpg"
+              },
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 341200,
+                "thumb": "monroea-lg_599c960a806de.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 345800,
+                "thumb": "monroeb-lg_599c962b100ab.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 351500,
+                "thumb": "monroec-lg_599c96b00d4e8.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Oakwood",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3854,
+                "cost": 389600,
+                "thumb": "oakwooda-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3854,
+                "cost": 395600,
+                "thumb": "oakwoodb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3854,
+                "cost": 403800,
+                "thumb": "oakwoodc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Ocracoke",
+            "elevations": [
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3308,
+                "cost": 341000,
+                "thumb": "ocracokeb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3308,
+                "cost": 347600,
+                "thumb": "ocracokec-lg.jpg"
+              },
+              {
+                "caption": "D",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3308,
+                "cost": 356900,
+                "thumb": "ocracoked-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Pamlico",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 352600,
+                "thumb": "pamlicoa-lg.jpg"
+              },
+              {
+                "caption": "AA",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 358900,
+                "thumb": "pamlicoaa-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 365200,
+                "thumb": "pamlicob-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 372500,
+                "thumb": "pamlicoc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Rosemont",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 4,
+                "size": 3812,
+                "cost": 380500,
+                "thumb": "rosemonta-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 4,
+                "size": 3812,
+                "cost": 389600,
+                "thumb": "rosemontb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 4,
+                "size": 3812,
+                "cost": 395400,
+                "thumb": "rosemontc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Somerset",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 4,
+                "size": 3590,
+                "cost": 360800,
+                "thumb": "somerseta-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 4,
+                "size": 3590,
+                "cost": 372500,
+                "thumb": "somersetb-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Trent",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3130,
+                "cost": 320500,
+                "thumb": "trenta-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3130,
+                "cost": 328400,
+                "thumb": "trentb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3130,
+                "cost": 335100,
+                "thumb": "trentc-lg.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Georges Grant",
+        "thumb": "thumb_georgesgrant_5935b75b6ea9d.jpg",
+        "logo": "logogeorgesgrant.jpg",
+        "latitude": 35.9406,
+        "longitude": -78.6445,
+        "description": "With a convenient location at the intersection of Norwood and Six Forks Road, these 14 home sites will not last long. <br><br>Choose from our portfolio of plans or bring your own and we can customize and personalize your new home for the way you want to live. &nbsp;<br><br>Come visit our model home today!",
+        "cityLocation": {
+          "name": "Raleigh",
+          "zip": 27601,
+          "stateCode": "NC",
+          "lat": 35.7727,
+          "lon": -78.6324
+        },
+        "plans": [
+          {
+            "name": "Blue Ridge",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 368000,
+                "thumb": "blueridgea-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 375900,
+                "thumb": "blueridgeb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 380000,
+                "thumb": "blueridgec-lg_593560db2d7ad.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Caldwell",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 4,
+                "size": 3015,
+                "cost": 360500,
+                "thumb": "caldwella-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 4,
+                "size": 3015,
+                "cost": 366000,
+                "thumb": "caldwellb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 4,
+                "size": 3015,
+                "cost": 372000,
+                "thumb": "caldwellc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Carolina",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 2893,
+                "cost": 343200,
+                "thumb": "carolinaa-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 2893,
+                "cost": 351500,
+                "thumb": "carolinab-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 2893,
+                "cost": 366200,
+                "thumb": "carolinac-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Guilford",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 2892,
+                "cost": 367200,
+                "thumb": "guilforda-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 2982,
+                "cost": 376400,
+                "thumb": "guilfordb-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Monroe",
+            "elevations": [
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 351200,
+                "thumb": "monroec-lg_599c96b00d4e8.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 346500,
+                "thumb": "monroeb-lg_599c962b100ab.jpg"
+              },
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 342700,
+                "thumb": "monroea-lg_599c960a806de.jpg"
+              },
+              {
+                "caption": "D",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 356700,
+                "thumb": "monroed-lg_599c96a3e4ad8.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Ocracoke",
+            "elevations": [
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3308,
+                "cost": 340200,
+                "thumb": "ocracokeb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3308,
+                "cost": 345100,
+                "thumb": "ocracokec-lg.jpg"
+              },
+              {
+                "caption": "D",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3308,
+                "cost": 354000,
+                "thumb": "ocracoked-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Rosemont",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 4,
+                "size": 3812,
+                "cost": 378200,
+                "thumb": "rosemonta-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 4,
+                "size": 3812,
+                "cost": 388700,
+                "thumb": "rosemontb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 4,
+                "size": 3812,
+                "cost": 393200,
+                "thumb": "rosemontc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Trent",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3130,
+                "cost": 318100,
+                "thumb": "trenta-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3130,
+                "cost": 326400,
+                "thumb": "trentb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3130,
+                "cost": 332000,
+                "thumb": "trentc-lg.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Hamptons at Umstead",
+        "thumb": "hp-thumb.jpg",
+        "logo": "logohamptons.jpg",
+        "latitude": 35.86,
+        "longitude": -78.73,
+        "description": "The <b>Hamptons</b> is located on Ebenezer Church Road in NW Raleigh and offers 215 beautiful wooded large acreage home sites. <br><br>These custom homes enhance the neighborhoods picturesque views. It boasts a planned multilevel clubhouse with fitness room, lap pool and children's play areas and direct access to the Raleigh greenway system at neighboring <b>Umstead State Park</b>. &nbsp;<br><br>Come visit our model home today!<br>",
+        "cityLocation": {
+          "name": "Raleigh",
+          "zip": 27601,
+          "stateCode": "NC",
+          "lat": 35.7727,
+          "lon": -78.6324
+        },
+        "plans": [
+          {
+            "name": "Blue Ridge",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 375600,
+                "thumb": "blueridgea-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 382400,
+                "thumb": "blueridgeb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 385400,
+                "thumb": "blueridgec-lg_593560db2d7ad.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Carolina",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 2893,
+                "cost": 340500,
+                "thumb": "carolinaa-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 2893,
+                "cost": 359600,
+                "thumb": "carolinab-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 2893,
+                "cost": 373500,
+                "thumb": "carolinac-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Monroe",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 341200,
+                "thumb": "monroea-lg_599c960a806de.jpg"
+              },
+              {
+                "caption": "D",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 352400,
+                "thumb": "monroed-lg_599c96a3e4ad8.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 343400,
+                "thumb": "monroeb-lg_599c962b100ab.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 348600,
+                "thumb": "monroec-lg_599c96b00d4e8.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Oakwood",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3854,
+                "cost": 394500,
+                "thumb": "oakwooda-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3854,
+                "cost": 399500,
+                "thumb": "oakwoodb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3854,
+                "cost": 407600,
+                "thumb": "oakwoodc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Ocracoke",
+            "elevations": [
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3308,
+                "cost": 347200,
+                "thumb": "ocracokeb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3308,
+                "cost": 353600,
+                "thumb": "ocracokec-lg.jpg"
+              },
+              {
+                "caption": "D",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3308,
+                "cost": 360200,
+                "thumb": "ocracoked-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Pamlico",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 357300,
+                "thumb": "pamlicoa-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 377100,
+                "thumb": "pamlicoc-lg.jpg"
+              },
+              {
+                "caption": "AA",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 363500,
+                "thumb": "pamlicoaa-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 370500,
+                "thumb": "pamlicob-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Somerset",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 4,
+                "size": 3590,
+                "cost": 365700,
+                "thumb": "somerseta-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 4,
+                "size": 3590,
+                "cost": 377200,
+                "thumb": "somersetb-lg.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Heritage",
+        "thumb": "heritage-golf-course-wake-forest-nc.jpg",
+        "logo": "logoheritage.png",
+        "latitude": 35.9345,
+        "longitude": -78.4824,
+        "description": "Amenities include the <b>Heritage Golf Club</b>, a semi-private course with a 4.5 Star rating, the <b>Heritage Swim and Tennis Club</b> with two swimming pools, lazy river, club house and playgrounds.  Miles of walking and biking trails throughout the <b>Wake Forest Greenway</b>, fishing pond, soccer fields, parks, picnic pavilions and playgrounds are just a few of the ways you can spend your time in Heritage. &nbsp;<br><br>Restaurants, grocery stores, pharmacies, and more are all right within the community and just a minutes drive!  The factory which is a giant sports complex is right within in the community as well offering ice skating, basketball, soccer, ballet, dance, karate, crafts and more! <br>",
+        "cityLocation": {
+          "name": "Wake Forest",
+          "zip": 27587,
+          "stateCode": "NC",
+          "lat": 35.9815,
+          "lon": -78.5392
+        },
+        "plans": [
+          {
+            "name": "Blue Ridge",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 362500,
+                "thumb": "blueridgea-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 370000,
+                "thumb": "blueridgeb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 377900,
+                "thumb": "blueridgec-lg_593560db2d7ad.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Caldwell",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 4,
+                "size": 3015,
+                "cost": 353900,
+                "thumb": "caldwella-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 4,
+                "size": 3015,
+                "cost": 360400,
+                "thumb": "caldwellb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 4,
+                "size": 3015,
+                "cost": 367900,
+                "thumb": "caldwellc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Carolina",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 2893,
+                "cost": 337000,
+                "thumb": "carolinaa-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 2893,
+                "cost": 341000,
+                "thumb": "carolinab-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 2893,
+                "cost": 350500,
+                "thumb": "carolinac-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Currituck",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3276,
+                "cost": 348200,
+                "thumb": "curritucka-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3276,
+                "cost": 356900,
+                "thumb": "currituckb-lg_59356335473a4.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 3,
+                "bath": 3.5,
+                "size": 3276,
+                "cost": 362200,
+                "thumb": "currituckc-lg_5935641d686c9.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Guilford",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 2892,
+                "cost": 360500,
+                "thumb": "guilforda-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 2982,
+                "cost": 372300,
+                "thumb": "guilfordb-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Monroe",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 342400,
+                "thumb": "monroea-lg_599c960a806de.jpg"
+              },
+              {
+                "caption": "D",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 353600,
+                "thumb": "monroed-lg_599c96a3e4ad8.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 346500,
+                "thumb": "monroeb-lg_599c962b100ab.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 349900,
+                "thumb": "monroec-lg_599c96b00d4e8.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Oakwood",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3854,
+                "cost": 383600,
+                "thumb": "oakwooda-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3854,
+                "cost": 390500,
+                "thumb": "oakwoodb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3854,
+                "cost": 396600,
+                "thumb": "oakwoodc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Ocracoke",
+            "elevations": [
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3308,
+                "cost": 346600,
+                "thumb": "ocracokeb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3308,
+                "cost": 351200,
+                "thumb": "ocracokec-lg.jpg"
+              },
+              {
+                "caption": "D",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3308,
+                "cost": 359300,
+                "thumb": "ocracoked-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Pamlico",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 360400,
+                "thumb": "pamlicoa-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 373800,
+                "thumb": "pamlicob-lg.jpg"
+              },
+              {
+                "caption": "AA",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 366900,
+                "thumb": "pamlicoaa-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 379100,
+                "thumb": "pamlicoc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Rosemont",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 4,
+                "size": 3812,
+                "cost": 379900,
+                "thumb": "rosemonta-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 4,
+                "size": 3812,
+                "cost": 390700,
+                "thumb": "rosemontb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 4,
+                "size": 3812,
+                "cost": 400500,
+                "thumb": "rosemontc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Somerset",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 4,
+                "size": 3590,
+                "cost": 360400,
+                "thumb": "somerseta-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 4,
+                "size": 3590,
+                "cost": 369500,
+                "thumb": "somersetb-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Spruce",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 3,
+                "bath": 2.5,
+                "size": 2187,
+                "cost": 305600,
+                "thumb": "sprucea-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 3,
+                "bath": 2.5,
+                "size": 2187,
+                "cost": 315600,
+                "thumb": "spruceb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 3,
+                "bath": 2.5,
+                "size": 2187,
+                "cost": 321000,
+                "thumb": "sprucec-lg_593569a222da9.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Trent",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3130,
+                "cost": 323000,
+                "thumb": "trenta-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3130,
+                "cost": 330800,
+                "thumb": "trentb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3130,
+                "cost": 338100,
+                "thumb": "trentc-lg.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Stonehenge Park",
+        "thumb": "sh-thumb.jpg",
+        "logo": "logostonehengepark.jpg",
+        "latitude": 35.886,
+        "longitude": -78.685,
+        "description": "<b>Stonehenge Park</b> is located near Stonehenge Shopping Center, Brier Creek, North Hills, restaurants, shopping, and Raleigh-Durham Airport!  It offers upscale charm, distinctive elevations and all the features of our high-performance green homes. <br><br> Choose from ranch, first floor master, and classic two story plans that fit your needs and lifestyle. <br><br> Come visit our model home today!<br>",
+        "cityLocation": {
+          "name": "Raleigh",
+          "zip": 27601,
+          "stateCode": "NC",
+          "lat": 35.7727,
+          "lon": -78.6324
+        },
+        "plans": [
+          {
+            "name": "Blue Ridge",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 364500,
+                "thumb": "blueridgea-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 372000,
+                "thumb": "blueridgeb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 2444,
+                "cost": 379900,
+                "thumb": "blueridgec-lg_593560db2d7ad.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Caldwell",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 4,
+                "size": 3015,
+                "cost": 355900,
+                "thumb": "caldwella-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 4,
+                "size": 3015,
+                "cost": 362400,
+                "thumb": "caldwellb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 4,
+                "size": 3015,
+                "cost": 369900,
+                "thumb": "caldwellc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Carolina",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 2893,
+                "cost": 339000,
+                "thumb": "carolinaa-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 2893,
+                "cost": 343000,
+                "thumb": "carolinab-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 2893,
+                "cost": 352500,
+                "thumb": "carolinac-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Currituck",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3276,
+                "cost": 350200,
+                "thumb": "curritucka-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3276,
+                "cost": 358900,
+                "thumb": "currituckb-lg_59356335473a4.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 3,
+                "bath": 3.5,
+                "size": 3276,
+                "cost": 364200,
+                "thumb": "currituckc-lg_5935641d686c9.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Guilford",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 2892,
+                "cost": 362500,
+                "thumb": "guilforda-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 2982,
+                "cost": 374300,
+                "thumb": "guilfordb-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Juniper",
+            "elevations": [
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 2.5,
+                "size": 2625,
+                "cost": 204900,
+                "thumb": "juniperc-lg.jpg"
+              },
+              {
+                "caption": "D",
+                "bed": 4,
+                "bath": 2.5,
+                "size": 2625,
+                "cost": 214900,
+                "thumb": "juniperd-lg.jpg"
+              },
+              {
+                "caption": "E",
+                "bed": 4,
+                "bath": 2.5,
+                "size": 2625,
+                "cost": 229000,
+                "thumb": "junipere-lg.jpg"
+              },
+              {
+                "caption": "F",
+                "bed": 4,
+                "bath": 2.5,
+                "size": 2625,
+                "cost": 234900,
+                "thumb": "juniperf-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Monroe",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 339900,
+                "thumb": "monroea-lg_599c960a806de.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 348500,
+                "thumb": "monroec-lg_599c96b00d4e8.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 342600,
+                "thumb": "monroeb-lg_599c962b100ab.jpg"
+              },
+              {
+                "caption": "D",
+                "bed": 4,
+                "bath": 3,
+                "size": 3228,
+                "cost": 352800,
+                "thumb": "monroed-lg_599c96a3e4ad8.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Oakwood",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3854,
+                "cost": 385600,
+                "thumb": "oakwooda-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3854,
+                "cost": 391500,
+                "thumb": "oakwoodb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3854,
+                "cost": 398600,
+                "thumb": "oakwoodc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Ocracoke",
+            "elevations": [
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3308,
+                "cost": 348600,
+                "thumb": "ocracokeb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3308,
+                "cost": 353200,
+                "thumb": "ocracokec-lg.jpg"
+              },
+              {
+                "caption": "D",
+                "bed": 4,
+                "bath": 3.5,
+                "size": 3308,
+                "cost": 361300,
+                "thumb": "ocracoked-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Pamlico",
+            "elevations": [
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 375800,
+                "thumb": "pamlicob-lg.jpg"
+              },
+              {
+                "caption": "AA",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 368900,
+                "thumb": "pamlicoaa-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 381300,
+                "thumb": "pamlicoc-lg.jpg"
+              },
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3,
+                "size": 3563,
+                "cost": 362400,
+                "thumb": "pamlicoa-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Rosemont",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 4,
+                "bath": 4,
+                "size": 3812,
+                "cost": 381900,
+                "thumb": "rosemonta-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 4,
+                "bath": 4,
+                "size": 3812,
+                "cost": 392700,
+                "thumb": "rosemontb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 4,
+                "bath": 4,
+                "size": 3812,
+                "cost": 402500,
+                "thumb": "rosemontc-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Somerset",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 4,
+                "size": 3590,
+                "cost": 362400,
+                "thumb": "somerseta-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 4,
+                "size": 3590,
+                "cost": 371500,
+                "thumb": "somersetb-lg.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Trent",
+            "elevations": [
+              {
+                "caption": "A",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3130,
+                "cost": 325000,
+                "thumb": "trenta-lg.jpg"
+              },
+              {
+                "caption": "B",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3130,
+                "cost": 332800,
+                "thumb": "trentb-lg.jpg"
+              },
+              {
+                "caption": "C",
+                "bed": 5,
+                "bath": 3.5,
+                "size": 3130,
+                "cost": 340500,
+                "thumb": "trentc-lg.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
