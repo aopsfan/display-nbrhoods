@@ -1,21 +1,23 @@
 import React from 'react';
 import Elevation from './Elevation';
 
-const renderElevation = (elevation, plan, index) => {
-  return <Elevation
-            key={index}
-            elevation={elevation}
-            planName={plan.name}/>
+class Plan extends React.Component {
+  renderElevation = (elevation, index) => {
+    return <Elevation
+              key={index}
+              elevation={elevation}
+              planName={this.props.plan.name}
+              elevationThumbPath={this.props.elevationThumbPath}/>
+  }
+
+  render() {
+    return (
+      <div>
+        <p>{this.props.plan.name}</p>
+        {this.props.plan.elevations.map(this.renderElevation)}
+      </div>
+    );
+  }
 }
-
-const Plan = ({ plan }) => (
-  <div>
-    <p>{plan.name}</p>
-
-    {plan.elevations.map((elevation, index) => {
-      return renderElevation(elevation, plan, index);
-    })}
-  </div>
-);
 
 export default Plan;
