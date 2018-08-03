@@ -1,33 +1,26 @@
 import React from 'react';
-import Elevation from './Elevation';
-import * as R from 'ramda';
+import Plan from './Plan';
 
 class Index extends React.Component {
-  renderElevation = (elevation, index) => {
-    return <Elevation
+  renderPlan = (plan, index) => {
+    return <Plan
               key={index}
-              elevation={elevation}
-              planName={elevation.planName}
+              plan={plan}
               elevationThumbPath={this.props.elevationThumbPath}/>
   }
 
-  elevations = () => {
+  plans = () => {
     const plans = this.props.communities.reduce((plans, community) => {
       return plans.concat(community.plans);
     }, []);
 
-    const elevations = plans.reduce((elevations, plan) => {
-      const descriptiveElevations = plan.elevations.map(R.assoc('planName', plan.name));
-      return elevations.concat(descriptiveElevations);
-    }, []);
-
-    return elevations;
+    return plans;
   }
 
   render() {
     return (
       <div>
-        {this.elevations().map(this.renderElevation)}
+        {this.plans().map(this.renderPlan)}
       </div>
     );
   }

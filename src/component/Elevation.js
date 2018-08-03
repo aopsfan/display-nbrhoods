@@ -5,10 +5,14 @@ class Elevation extends React.Component {
     return this.props.elevationThumbPath(this.props.elevation.thumb);
   }
 
+  name = () => {
+    return this.props.plan.name + ' ' + this.props.elevation.caption;
+  }
+
   render() {
     return (
       <div>
-        <p>{this.props.planName + ' ' + this.props.elevation.caption}</p>
+        <p>{this.name()}</p>
         <p>{this.props.elevation.bed} Beds</p>
         <p>{this.props.elevation.bath} Baths</p>
         <p>{this.props.elevation.size} sq ft</p>
