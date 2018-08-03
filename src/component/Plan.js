@@ -13,7 +13,6 @@ class Plan extends React.Component {
   render() {
     return (
       <div>
-        <p>{this.props.plan.name}</p>
         {this.props.plan.elevations.map(this.renderElevation)}
       </div>
     );
