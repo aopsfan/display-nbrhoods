@@ -1,7 +1,7 @@
 import React from 'react';
 import Elevation from './Elevation';
 
-class PlanPicker extends React.Component {
+class Plan extends React.Component {
   renderElevation = (elevation, index) => {
     return <Elevation
               key={index}
@@ -19,4 +19,4 @@ class PlanPicker extends React.Component {
   }
 }
 
-export default PlanPicker;
+export default Plan;
