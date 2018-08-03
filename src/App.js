@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 import './App.css';
 import { data } from './data.json';
 import Plan from './component/Plan';
-import { BrowserRouter, Route } from 'react-router-dom';
+import Index from './component/Index';
+import { BrowserRouter, Route, Link } from 'react-router-dom';
 
 class App extends Component {
   constructor(props) {
@@ -25,14 +26,14 @@ class App extends Component {
   }
 
   selectCommunity = event => {
-    const value = event.target.value;
+    const value = parseInt(event.target.value, 10);
     this.setState(prevState => {
       return { communityIndex: value, planIndex: 0 };
     });
   }
 
   selectPlan = event => {
-    const value = event.target.value;
+    const value = parseInt(event.target.value, 10);
     this.setState(prevState => {
       return { planIndex: value };
     });
@@ -40,9 +41,18 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
-        <BrowserRouter>
+      <BrowserRouter>
+        <div className="App">
+          <Route path="/" render={() => (
+            <div>
+              <Link to="/">View All</Link>
+              <Link to="/plan">Select Community</Link>
+            </div>
+          )} />
           <Route exact path="/" render={() => (
+            <Index communities={data.communities} elevationThumbPath={this.elevationThumbPath} />
+          )} />
+          <Route exact path="/plan" render={() => (
             <div>
             <select onChange={this.selectCommunity}>
               {data.communities.map((community, index) => {
@@ -57,8 +67,8 @@ class App extends Component {
             <Plan plan={this.plan()} elevationThumbPath={this.elevationThumbPath} />
             </div>
           )}/>
-        </BrowserRouter>
-      </div>
+        </div>
+      </BrowserRouter>
     );
   }
 }
